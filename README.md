@@ -5,4 +5,4 @@
 - ʕ@ᵔᴥᵔ@ʔ I’m currently studying at BSUIR
 - [✖‿✖] I’m looking for help with myself. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Trefoil_knot_conways_game_of_life.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
