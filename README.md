@@ -12,4 +12,4 @@
 - [Util for finding duplicated files][util]:
 
 [game]: https://github.com/IvanGrigorik/GameOfLife
-[util]: https://github.com/IvanGrigorik/MF
+[util]: https://github.com/IvanGrigorik/MF/tree/main/SPO_CourseWork/Utility_C
