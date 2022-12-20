@@ -6,7 +6,7 @@
  
 [![IvanGrigorik GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGrigorik&?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGrigorik&hide=Cmake,Makefile,Qmake,html,Shell,javascript,DataWeave&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGrigorik&hide=Cmake,Makefile,Qmake,html,VHDL, Verilog,javascript,DataWeave&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## My projects:
