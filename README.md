@@ -18,4 +18,4 @@
 
 [game]: https://github.com/IvanGrigorik/GameOfLife
 [util]: https://github.com/IvanGrigorik/MF/tree/main/SPO_CourseWork/Utility_C
-[kite]: 
+[kite]: https://github.com/amateomi/kite
