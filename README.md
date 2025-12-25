@@ -3,7 +3,6 @@
 I'm Ivan Grigorik, a PhD student from the University of Austin, Texas
 Passionate about compilers, static analysis, and Parallel programming.
 
-[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGrigorik&hide=Cmake,Makefile,Qmake,html,VHDL,Verilog,javascript,DataWeave&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
  [//]: <## My projects:>
