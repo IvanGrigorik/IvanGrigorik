@@ -2,7 +2,7 @@
 
 I'm Ivan Grigorik, a PhD student from the University of Texas at Austin.
 
-Passionate about compilers, static analysis, and parallel programming.
+Passionate about parallel programming and compilers.
 
 <br>
 
